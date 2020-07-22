@@ -11,4 +11,7 @@ I am a developer with a focus on javascript, python and java, utilizing their ec
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Game of Life as a React Component using Canvas](https://dev.to/vetswhocode/game-of-life-as-a-react-component-using-canvas-275g)
+- [Introduction & Design](https://dev.to/bmw2621/introduction-design-e12)
+- [Learning React](https://dev.to/bmw2621/learning-react-g16)
 <!-- BLOG-POST-LIST:END -->
