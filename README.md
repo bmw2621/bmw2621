@@ -11,6 +11,7 @@ I am a developer with a focus on javascript, python and java, utilizing their ec
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an Image Carousel with Svelte - Part 2 (Adding Features)](https://dev.to/bmw2621/build-an-image-carousel-with-svelte-part-2-adding-features-55i9)
 - [Build an Image Carousel with Svelte](https://dev.to/bmw2621/build-an-image-carousel-with-svelte-4kf8)
 - [Game of Life as a React Component using Canvas](https://dev.to/vetswhocode/game-of-life-as-a-react-component-using-canvas-275g)
 - [Introduction & Design](https://dev.to/bmw2621/introduction-design-e12)
